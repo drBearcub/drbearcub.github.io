@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<title>davis's homepage</title>
+</head>
+<body>
+	<center>
+	<table border = "silver">
+	<tr><td>
+	<table width = "700" >
+		<tr>
+			<td>
+				<center>
+				<h1>Computer Graphics</h1>
+				</center>
+					<hr>
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+				<center>
+
+				<a href = "http://google.com">
+					<img src = "http://www.loudmeyell.com/wp-content/uploads/2013/06/Computer-Graphic-Art-Wallpapers-25.jpg" width = "500">
+				</a>
+				<br>
+					blah blah blha
+				<br>
+
+				</center>
+				</td>
+		</tr>
+	</table>
+
+
+
+	</td>
+	</tr>
+	</table>
+
+	</center>
+	</body>
+</html>
